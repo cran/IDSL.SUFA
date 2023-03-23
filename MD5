@@ -1,6 +1,6 @@
-c7660ec7d4c09128621588c9989b92b0 *DESCRIPTION
-50bc2abe45ec405d301e9464a7508226 *LICENSE
-bfc5bb48f515bd5ece80ef855521e220 *NAMESPACE
+31eed608de97f5b9bd0206a71b2cad35 *DESCRIPTION
+a8ab8842147cbe9a092dccc545505223 *LICENSE
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 8ffc5f42a14c8b249b2b50f6d80ef609 *R/SUFA_hill_molecular_formula_printer.R
 24c917aacf1a651fc257874da3a4bc64 *R/UFA_locate_regex.R
 ee734a7efba4f2c98238841828dc0b61 *R/element_sorter.R
@@ -8,9 +8,9 @@ ee734a7efba4f2c98238841828dc0b61 *R/element_sorter.R
 5c2c25e24e645ed5bf74944d735cdc5c *R/formula_vector_generator.R
 57a068e37a53164d363f3f47fa771238 *R/ionization_pathway_deconvoluter.R
 8147b034d35b6e93072ff1b67e0a83b0 *R/isotopic_profile_calculator.R
-e6cf2963919575ad7181805c7cfe181b *R/isotopic_profile_molecular_formula_feeder.R
-810715d6d84e8ff97e6b07e18a3e0d89 *build/partial.rdb
-5fbd5a3f4b5bb143e8678d44a4334381 *inst/CITATION
+6c03bc7257bf67c663a95ab1ef15372a *R/isotopic_profile_molecular_formula_feeder.R
+ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
+a08239e192edb5beaba98be34588420f *inst/CITATION
 0af58335ab2f38c2119ff5832b0b4fa2 *inst/extdata/IUPAC_Isotopes.rda
 18a80b673aac4af76078f1d90ab17b7d *man/SUFA_hill_molecular_formula_printer.Rd
 121d79f80b7ae9c477b479442c5a1cd6 *man/UFA_locate_regex.Rd
